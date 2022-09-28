@@ -8,11 +8,11 @@ namespace ListView
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
-        {
+        {afêfêfêfè
              
         }
 
-        private void textBox3_TextChanged(object sender, EventArgs e)
+        private void textBox3_TextChangsed(object sender, EventArgs e)
         {
 
         }
@@ -29,7 +29,7 @@ namespace ListView
         private void button1_Click(object sender, EventArgs e)
         {
             Close();    
-        }
+        }d22432525253432423
 
         private void btnSua_Click(object sender, EventArgs e)
         {
