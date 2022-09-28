@@ -1,0 +1,16 @@
+C:\Users\super\source\repos\QuanLyTTSV\QuanLyTTSV\bin\Debug\QuanLyTTSV.exe.config
+C:\Users\super\source\repos\QuanLyTTSV\QuanLyTTSV\bin\Debug\QuanLyTTSV.exe
+C:\Users\super\source\repos\QuanLyTTSV\QuanLyTTSV\bin\Debug\QuanLyTTSV.pdb
+C:\Users\super\source\repos\QuanLyTTSV\QuanLyTTSV\bin\Debug\EntityFramework.dll
+C:\Users\super\source\repos\QuanLyTTSV\QuanLyTTSV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\super\source\repos\QuanLyTTSV\QuanLyTTSV\bin\Debug\EntityFramework.xml
+C:\Users\super\source\repos\QuanLyTTSV\QuanLyTTSV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\super\source\repos\QuanLyTTSV\QuanLyTTSV\obj\Debug\QuanLyTTSV.csproj.AssemblyReference.cache
+C:\Users\super\source\repos\QuanLyTTSV\QuanLyTTSV\obj\Debug\QuanLyTTSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\super\source\repos\QuanLyTTSV\QuanLyTTSV\obj\Debug\QuanLyTTSV.Form1.resources
+C:\Users\super\source\repos\QuanLyTTSV\QuanLyTTSV\obj\Debug\QuanLyTTSV.Properties.Resources.resources
+C:\Users\super\source\repos\QuanLyTTSV\QuanLyTTSV\obj\Debug\QuanLyTTSV.csproj.GenerateResource.cache
+C:\Users\super\source\repos\QuanLyTTSV\QuanLyTTSV\obj\Debug\QuanLyTTSV.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\QuanLyTTSV\QuanLyTTSV\obj\Debug\QuanLyTTSV.csproj.CopyComplete
+C:\Users\super\source\repos\QuanLyTTSV\QuanLyTTSV\obj\Debug\QuanLyTTSV.exe
+C:\Users\super\source\repos\QuanLyTTSV\QuanLyTTSV\obj\Debug\QuanLyTTSV.pdb

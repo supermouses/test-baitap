@@ -1,0 +1,29 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Lab04\Lab04\bin\Debug\Lab04.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Lab04\Lab04\obj\Debug\Lab04.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Lab04\Lab04\obj\Debug\Lab04.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Lab04\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Lab04\Lab04\obj\Debug\Lab04.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Lab04\Lab04\bin\Debug\Lab04.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Lab04\Lab04\bin\Debug\Lab04.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Lab04\Lab04\bin\Debug\EntityFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Lab04\Lab04\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Lab04\Lab04\bin\Debug\EntityFramework.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Lab04\Lab04\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Lab04\Lab04\obj\Debug\Lab04.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Lab04\Lab04\obj\Debug\Lab04.pdb
+C:\Users\super\source\repos\Lab04\Lab04\bin\Debug\Lab04.exe.config
+C:\Users\super\source\repos\Lab04\Lab04\bin\Debug\Lab04.exe
+C:\Users\super\source\repos\Lab04\Lab04\bin\Debug\Lab04.pdb
+C:\Users\super\source\repos\Lab04\Lab04\bin\Debug\EntityFramework.dll
+C:\Users\super\source\repos\Lab04\Lab04\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\super\source\repos\Lab04\Lab04\bin\Debug\EntityFramework.xml
+C:\Users\super\source\repos\Lab04\Lab04\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\super\source\repos\Lab04\Lab04\obj\Debug\Lab04.csproj.AssemblyReference.cache
+C:\Users\super\source\repos\Lab04\Lab04\obj\Debug\Lab04.csproj.SuggestedBindingRedirects.cache
+C:\Users\super\source\repos\Lab04\Lab04\obj\Debug\Lab04.Form1.resources
+C:\Users\super\source\repos\Lab04\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+C:\Users\super\source\repos\Lab04\Lab04\obj\Debug\Lab04.csproj.GenerateResource.cache
+C:\Users\super\source\repos\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\Lab04\Lab04\obj\Debug\Lab04.csproj.CopyComplete
+C:\Users\super\source\repos\Lab04\Lab04\obj\Debug\Lab04.exe
+C:\Users\super\source\repos\Lab04\Lab04\obj\Debug\Lab04.pdb

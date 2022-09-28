@@ -1,0 +1,20 @@
+c:\Users\administrator\documents\visual studio 2015\Projects\Lab02\Lab022\bin\Debug\Lab022.exe.config
+c:\Users\administrator\documents\visual studio 2015\Projects\Lab02\Lab022\bin\Debug\Lab022.exe
+c:\Users\administrator\documents\visual studio 2015\Projects\Lab02\Lab022\bin\Debug\Lab022.pdb
+c:\Users\administrator\documents\visual studio 2015\Projects\Lab02\Lab022\obj\Debug\Lab022.Lab02_02.resources
+c:\Users\administrator\documents\visual studio 2015\Projects\Lab02\Lab022\obj\Debug\Lab022.Properties.Resources.resources
+c:\Users\administrator\documents\visual studio 2015\Projects\Lab02\Lab022\obj\Debug\Lab022.csproj.GenerateResource.Cache
+c:\Users\administrator\documents\visual studio 2015\Projects\Lab02\Lab022\obj\Debug\Lab022.exe
+c:\Users\administrator\documents\visual studio 2015\Projects\Lab02\Lab022\obj\Debug\Lab022.pdb
+c:\Users\administrator\documents\visual studio 2015\Projects\Lab02\Lab022\obj\Debug\Lab022.csprojResolveAssemblyReference.cache
+C:\Users\super\source\repos\Lab02\Lab022\bin\Debug\Lab022.exe.config
+C:\Users\super\source\repos\Lab02\Lab022\bin\Debug\Lab022.exe
+C:\Users\super\source\repos\Lab02\Lab022\bin\Debug\Lab022.pdb
+C:\Users\super\source\repos\Lab02\Lab022\obj\Debug\Lab022.csproj.AssemblyReference.cache
+C:\Users\super\source\repos\Lab02\Lab022\obj\Debug\Lab022.csproj.SuggestedBindingRedirects.cache
+C:\Users\super\source\repos\Lab02\Lab022\obj\Debug\Lab022.Lab02_02.resources
+C:\Users\super\source\repos\Lab02\Lab022\obj\Debug\Lab022.Properties.Resources.resources
+C:\Users\super\source\repos\Lab02\Lab022\obj\Debug\Lab022.csproj.GenerateResource.cache
+C:\Users\super\source\repos\Lab02\Lab022\obj\Debug\Lab022.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\Lab02\Lab022\obj\Debug\Lab022.exe
+C:\Users\super\source\repos\Lab02\Lab022\obj\Debug\Lab022.pdb
