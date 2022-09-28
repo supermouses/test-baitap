@@ -63,9 +63,9 @@ namespace Lab04
             {
                 int index = dgvStudent.Rows.Add();
                 dgvStudent.Rows[index].Cells[0].Value = item.StudentID;
-                dgvStudent.Rows[index].Cells[1].Value = item.FullName;
-                dgvStudent.Rows[index].Cells[1].Value = item.Faculty.FacultyName;
-                dgvStudent.Rows[index].Cells[1].Value = item.AverageScore;
+                dgvStudent.Rows[index].Cells[0].Value = item.FullName;
+                dgvStudent.Rows[index].Cells[0].Value = item.Faculty.FacultyName;
+                dgvStudent.Rows[index].Cells[0].Value = item.AverageScore;
             }
         }
         private void button4_Click(object sender, EventArgs e)
@@ -87,10 +87,10 @@ namespace Lab04
         }
         private void them (int selectedRow)
         {
-            dgvStudent.Rows[selectedRow].Cells[0].Value = txtStudentID.Text;
-            dgvStudent.Rows[selectedRow].Cells[0].Value = txtFullName.Text;
-            dgvStudent.Rows[selectedRow].Cells[0].Value = float.Parse(txtAveragescore.Text).ToString();
-            dgvStudent.Rows[selectedRow].Cells[0].Value = bKhoa.Text;
+            dgvStudent.Rows[selectedRow].Cells[1].Value = txtStudentID.Text;
+            dgvStudent.Rows[selectedRow].Cells[2].Value = txtFullName.Text;
+            dgvStudent.Rows[selectedRow].Cells[3].Value = float.Parse(txtAveragescore.Text).ToString();
+            dgvStudent.Rows[selectedRow].Cells[4].Value = bKhoa.Text;
         }
         private void button1_Click(object sender, EventArgs e)
         {
